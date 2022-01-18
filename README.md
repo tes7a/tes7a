@@ -44,6 +44,6 @@ I like
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysapka&hide=stars,contribs&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kysapka&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tes7a&layout=compact)
 
 ### 💌 Mail me: ttes7a@gmail.com
