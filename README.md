@@ -26,9 +26,9 @@ I like
 
 ### You can contact me: 
 
-[<img algin="left" alt="facebook" width="26px" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"/>][facebook]
-[<img algin="left" alt="instagram" width="26px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"/>][instagram]
-[<img algin="left" alt="codewars" width="26px" src="https://www.codewars.com/users/Tes7a/badges/large"/>][codewars]
+[<img algin="left" alt="facebook" width="50px" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"/>][facebook]
+[<img algin="left" alt="instagram" width="50px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"/>][instagram]
+[<img algin="left" alt="codewars" width="200px" src="https://www.codewars.com/users/Tes7a/badges/large"/>][codewars]
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100017441050025
