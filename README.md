@@ -26,9 +26,9 @@ I like
 
 ### You can contact me: 
 
-[<img algin="left" alt="facebook" width="50px" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"/>][facebook]
-[<img algin="left" alt="linkedin " width="50px" src="https://e7.pngegg.com/pngimages/957/416/png-clipart-social-media-computer-icons-logo-linkedin-social-media-angle-text-thumbnail.png"/>][linkedin]
-[<img algin="left" alt="instagram" width="50px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"/>][instagram]
+[<img algin="left" alt="facebook" width="70px" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"/>][facebook]
+[<img algin="left" alt="linkedin " width="70px" src="https://e7.pngegg.com/pngimages/957/416/png-clipart-social-media-computer-icons-logo-linkedin-social-media-angle-text-thumbnail.png"/>][linkedin]
+[<img algin="left" alt="instagram" width="70px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"/>][instagram]
 [<img algin="left" alt="codewars" width="250px" src="https://www.codewars.com/users/Tes7a/badges/large"/>][codewars]
 
 
@@ -42,7 +42,7 @@ I like
 <br />
 
 ### GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysapka&hide=stars,contribs&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tes7a&hide=stars,contribs&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tes7a&layout=compact)
 
