@@ -3,10 +3,10 @@
 ### I'm Front-end Developer!
 
 I like
-- :cars: cars
-- :computer: computer
-- :sport: sport
-- :music: music
+-  🚗
+-  💻, 🎮
+- 🏃, 🏊, 🏀
+- 🎼, 🎤
 
 ### Skills and Tools
 
