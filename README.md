@@ -1,8 +1,11 @@
-## Hello, I'm [Tes7a] Kostya Dudkin
-
-### You can contact me: 
+## Hello, I'm Kostya Dudkin
 
 [<img algin="left" alt="linkedin " width="40px" src="https://e7.pngegg.com/pngimages/957/416/png-clipart-social-media-computer-icons-logo-linkedin-social-media-angle-text-thumbnail.png"/>][linkedin]
+
+<br />
+<br />
+<br />
+
 [<img algin="left" alt="codewars" width="250px" src="https://www.codewars.com/users/Tes7a/badges/large"/>][codewars]
 
 
