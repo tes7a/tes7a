@@ -1,4 +1,4 @@
-## Hello, I'm Kostya Dudkin
+## Hello, I'm Konstantin Dudkin
 
 [<img algin="left" alt="linkedin " width="40px" src="https://e7.pngegg.com/pngimages/957/416/png-clipart-social-media-computer-icons-logo-linkedin-social-media-angle-text-thumbnail.png"/>][linkedin]
 
