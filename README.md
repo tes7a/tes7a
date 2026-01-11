@@ -50,30 +50,6 @@ I’ve worked in teams of **10–25 engineers**, contributed to fintech, communi
 
 ---
 
-## 💼 Experience Snapshot
-
-**MainFlow (2025–present)**  
-- Refactored critical legacy codebase → **−60% launch time**
-- Eliminated 30+ unnecessary re-renders → **+25% performance**
-- Rebuilt auth system with NextAuth v5
-- Built booking system → **+10% conversion**
-- Fixed memory leaks, reduced UI latency by **1.5s**
-- Introduced Storybook to improve team workflow
-
-**QuickBlox (2023–2025)**  
-- Performance improvements & stability fixes  
-- Integrated AI features using OpenAI APIs  
-- Improved build pipeline → **−20% build time**  
-- Improved UI/UX → **+10% retention**
-
-**Paysera (2020–2023)**  
-- Built fintech React applications  
-- Improved load times by **15%**  
-- Delivered high test coverage (≈95%)  
-- Integrated complex third-party APIs  
-
----
-
 ## 🎯 Currently focused on
 - Advanced system design  
 - High-load architectures  
